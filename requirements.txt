@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Core parsing libraries
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# Library for the web interface
+streamlit==1.33.0
