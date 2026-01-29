@@ -1,7 +1,12 @@
 # FB2 to TXT/MD Converter & Reader
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fb2-to-md-converter.streamlit.app/)
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+> **🚀 Try the Live Demo:** [fb2-to-md-converter.streamlit.app](https://fb2-to-md-converter.streamlit.app/)
+>
+> **✍️ Read the Story behind the code:** [Vibecoding Your Way Out of Format Hell (Medium)](https://medium.com/@FitHappensML/2aa9839548fe)
 
 This project is a Python-based utility for converting `.fb2` (FictionBook) files into `.txt` (plain text) or `.md` (Markdown). The tool offers two interfaces: a user-friendly web UI built with Streamlit for reading and converting, and a command-line interface (CLI) for fast processing and automation.
 
@@ -111,14 +116,21 @@ fb2_converter/
 
 ## 💡 Future Improvements (To-Do)
 
+- [x] Deploy the Streamlit app to Streamlit Cloud for public access.
 - [ ] Implement batch processing for the CLI (allow specifying a directory as input).
 - [ ] Add support for more export formats (e.g., HTML).
 - [ ] Handle more FB2 tags for richer formatting (e.g., quotes, poems).
-- [ ] Deploy the Streamlit app to a service like Streamlit Cloud for public access.
 
 ## ⚖️ Legal Note regarding Examples
 
 The sample file provided in the `examples/` directory (*The Adventures of Sherlock Holmes*) is in the **Public Domain**. You are free to use, modify, and distribute it without copyright restrictions.
+
+## ❤️ Support & Connect
+
+Thanks for using this tool! If you found it useful, check out my other projects and thoughts on AI, coding, and etc:
+
+*   🐦 **Twitter/X:** [@FitHappensML](https://x.com/FitHappensML)
+*   📢 **Telegram:** [FitHappensML Channel](https://t.me/+_s71Dv_6DtE0MmEy)
 
 ## 📄 License
 
